@@ -1,0 +1,36 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a crocheted amigurumi bear toy">
+  <defs>
+    <radialGradient id="amBg" cx="65%" cy="25%" r="85%">
+      <stop offset="0%" stop-color="#FDF4F7"/>
+      <stop offset="100%" stop-color="#F6DDE4"/>
+    </radialGradient>
+    <linearGradient id="amBody" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EAD2C4"/>
+      <stop offset="100%" stop-color="#D9B7A4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#amBg)"/>
+  <ellipse cx="200" cy="330" rx="120" ry="14" fill="#4A3B42" opacity="0.08"/>
+  <g stroke="#4A3B42" stroke-opacity="0.18" stroke-width="1.2" fill="none">
+    <ellipse cx="200" cy="220" rx="80" ry="72"/>
+    <circle cx="200" cy="120" r="52"/>
+  </g>
+  <ellipse cx="200" cy="222" rx="78" ry="70" fill="url(#amBody)"/>
+  <circle cx="146" cy="140" r="26" fill="url(#amBody)"/>
+  <circle cx="254" cy="140" r="26" fill="url(#amBody)"/>
+  <circle cx="146" cy="140" r="12" fill="#F6DDE4"/>
+  <circle cx="254" cy="140" r="12" fill="#F6DDE4"/>
+  <circle cx="200" cy="120" r="50" fill="url(#amBody)"/>
+  <ellipse cx="130" cy="230" rx="20" ry="34" fill="url(#amBody)" transform="rotate(-18 130 230)"/>
+  <ellipse cx="270" cy="230" rx="20" ry="34" fill="url(#amBody)" transform="rotate(18 270 230)"/>
+  <ellipse cx="168" cy="292" rx="24" ry="18" fill="url(#amBody)"/>
+  <ellipse cx="232" cy="292" rx="24" ry="18" fill="url(#amBody)"/>
+  <circle cx="182" cy="112" r="4.5" fill="#4A3B42"/>
+  <circle cx="218" cy="112" r="4.5" fill="#4A3B42"/>
+  <ellipse cx="200" cy="130" rx="10" ry="7" fill="#4A3B42" opacity="0.85"/>
+  <path d="M188 140 Q200 148 212 140" stroke="#4A3B42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M170 108 Q182 96 194 106" stroke="#4A3B42" stroke-opacity="0.35" stroke-width="1.4" fill="none"/>
+  <path d="M206 106 Q218 96 230 108" stroke="#4A3B42" stroke-opacity="0.35" stroke-width="1.4" fill="none"/>
+  <circle cx="200" cy="222" r="6" fill="#B98CA6"/>
+  <path d="M186 208 Q200 200 214 208 M182 222 h36 M186 236 Q200 244 214 236" stroke="#B98CA6" stroke-width="1.6" fill="none" opacity="0.7"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a draped crochet scarf with stitch texture">
+  <defs>
+    <linearGradient id="scBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBF6F2"/>
+      <stop offset="100%" stop-color="#F6DDE4"/>
+    </linearGradient>
+    <linearGradient id="scFab" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E9A9C2"/>
+      <stop offset="100%" stop-color="#C6789A"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#scBg)"/>
+  <path d="M60 60 C 140 40, 120 140, 200 130 C 280 120, 260 220, 340 210 L 340 340 C 260 350, 280 250, 200 260 C 120 270, 140 170, 60 190 Z" fill="url(#scFab)"/>
+  <g stroke="#7A3D57" stroke-opacity="0.35" stroke-width="1.4" fill="none">
+    <path d="M75 75 C 150 58, 132 150, 208 140"/>
+    <path d="M95 95 C 165 80, 148 168, 222 158"/>
+    <path d="M115 115 C 182 100, 166 184, 238 176"/>
+    <path d="M135 135 C 200 122, 184 200, 256 194"/>
+    <path d="M155 155 C 218 145, 202 216, 274 212"/>
+    <path d="M175 175 C 236 168, 220 232, 292 230"/>
+    <path d="M195 195 C 254 190, 240 248, 310 248"/>
+    <path d="M215 215 C 272 210, 258 264, 328 266"/>
+  </g>
+  <g stroke="#7A3D57" stroke-opacity="0.25" stroke-width="8" stroke-linecap="round">
+    <line x1="80" y1="80" x2="80" y2="182"/>
+    <line x1="120" y1="62" x2="120" y2="164"/>
+    <line x1="160" y1="60" x2="160" y2="162"/>
+    <line x1="200" y1="72" x2="200" y2="180"/>
+    <line x1="240" y1="88" x2="240" y2="196"/>
+    <line x1="280" y1="106" x2="280" y2="212"/>
+    <line x1="320" y1="122" x2="320" y2="228"/>
+  </g>
+  <g fill="#C6789A" opacity="0.9">
+    <circle cx="70" cy="330" r="5"/><circle cx="88" cy="340" r="5"/><circle cx="106" cy="330" r="5"/>
+    <circle cx="70" cy="350" r="5"/><circle cx="88" cy="360" r="5"/><circle cx="106" cy="350" r="5"/>
+  </g>
+</svg>

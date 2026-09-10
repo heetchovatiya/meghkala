@@ -1,0 +1,33 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration of a macrame-style crochet plant hanger with potted plant">
+  <defs>
+    <linearGradient id="phBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F2E9F7"/>
+      <stop offset="100%" stop-color="#E7D4F0"/>
+    </linearGradient>
+    <linearGradient id="phPot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EAD2C4"/>
+      <stop offset="100%" stop-color="#D2AE97"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#phBg)"/>
+  <line x1="200" y1="20" x2="200" y2="70" stroke="#4A3B42" stroke-opacity="0.4" stroke-width="3"/>
+  <g stroke="#B98CA6" stroke-width="3" fill="none" opacity="0.9">
+    <path d="M200 70 C 150 110, 130 160, 140 200"/>
+    <path d="M200 70 C 250 110, 270 160, 260 200"/>
+    <path d="M200 70 C 190 130, 190 170, 190 205"/>
+    <path d="M200 70 C 210 130, 210 170, 210 205"/>
+  </g>
+  <g stroke="#D8C3E0" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.8">
+    <path d="M150 130 Q200 150 250 130" />
+    <path d="M143 165 Q200 188 257 165" />
+  </g>
+  <path d="M120 205 Q200 240 280 205 L 260 210 Q200 232 140 210 Z" fill="#D8C3E0" opacity="0.9"/>
+  <path d="M150 210 L 250 210 L 235 280 Q200 296 165 280 Z" fill="url(#phPot)"/>
+  <ellipse cx="200" cy="210" rx="50" ry="10" fill="#EAD2C4"/>
+  <g fill="#8FAE7C">
+    <path d="M200 205 C 170 150, 150 120, 130 95 C 165 110, 185 145, 200 190 Z"/>
+    <path d="M200 205 C 230 150, 250 120, 270 95 C 235 110, 215 145, 200 190 Z"/>
+    <path d="M200 205 C 195 140, 195 100, 195 70 C 210 100, 210 140, 205 200 Z" fill="#A3C48E"/>
+  </g>
+  <ellipse cx="200" cy="340" rx="90" ry="10" fill="#4A3B42" opacity="0.08"/>
+</svg>
